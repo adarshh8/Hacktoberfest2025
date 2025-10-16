@@ -9,6 +9,7 @@
   --box-hover: #fe0c43;
   --nav-color: rgb(255, 230, 230);
   --footer-color: #ededed;
+  
 }
 [data-theme="dark"] {
   --white: rgb(39 41 52);
